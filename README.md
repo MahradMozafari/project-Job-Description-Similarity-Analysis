@@ -1,4 +1,4 @@
-Certainly! Below is a comprehensive GitHub README file that explains your code, including details about the dataset, functionality, methods, and how to run the script.
+Below is a comprehensive GitHub README file that explains your code, including details about the dataset, functionality, methods, and how to run the script.
 
 ```markdown
 # Job Summary Text Analysis
